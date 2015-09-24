@@ -1,0 +1,14 @@
+{
+  "name": "project-euler-javascript",
+  "version": "0.1.0",
+  "description": "",
+  "main": "problem001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rx": "^3.1.2"
+  }
+}
